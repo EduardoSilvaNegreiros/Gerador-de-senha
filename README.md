@@ -1,6 +1,8 @@
 # Gerador de Senhas em JavaScript
 
-Este projeto é um gerador de senhas simples desenvolvido em JavaScript. O objetivo é fornecer aos usuários senhas aleatórias e seguras que podem ser utilizadas em várias aplicações.
+Este projeto é um gerador de senhas simples desenvolvido em **JavaScript**. O objetivo é fornecer aos usuários senhas aleatórias e seguras que podem ser utilizadas em várias aplicações.
+
+---
 
 ## Funcionalidades
 
@@ -8,11 +10,15 @@ Este projeto é um gerador de senhas simples desenvolvido em JavaScript. O objet
 - Opção de incluir letras maiúsculas, minúsculas, números e caracteres especiais.
 - Interface de usuário simples e intuitiva.
 
+---
+
 ## Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+---
 
 ## Como Usar
 
@@ -22,12 +28,21 @@ Este projeto é um gerador de senhas simples desenvolvido em JavaScript. O objet
 4. Clique no botão "Gerar Senha" para criar uma nova senha.
 5. A senha gerada será exibida na tela e pode ser copiada para uso.
 
+---
+
 ## Instalação
 
 Para utilizar este gerador de senhas, você só precisa de um navegador moderno. Não há necessidade de instalação adicional.
 
+---
+
+## Interface
+
+### **Tela Principal**
+![Tela Principal](https://github.com/EduardoSilvaNegreiros/Gerador-de-senha/blob/main/telaPrincipal.png?raw=true)
+
+---
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma `issue` ou enviar um `pull request`.
-
-
